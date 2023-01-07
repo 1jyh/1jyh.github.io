@@ -3,14 +3,14 @@
   <title>Hexo</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://1jyh.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://1jyh.github.io/"/>
   <updated>2023-01-07T05:15:48.787Z</updated>
-  <id>http://example.com/</id>
+  <id>https://1jyh.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>ljyh</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>某H视频-mls</title>
-    <link href="http://example.com/2023/01/07/%E6%9F%90H%E8%A7%86%E9%A2%91-mls/"/>
-    <id>http://example.com/2023/01/07/%E6%9F%90H%E8%A7%86%E9%A2%91-mls/</id>
+    <link href="https://1jyh.github.io/2023/01/07/%E6%9F%90H%E8%A7%86%E9%A2%91-mls/"/>
+    <id>https://1jyh.github.io/2023/01/07/%E6%9F%90H%E8%A7%86%E9%A2%91-mls/</id>
     <published>2023-01-07T05:15:37.000Z</published>
     <updated>2023-01-07T05:15:48.787Z</updated>
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/11/20/hello-world/"/>
-    <id>http://example.com/2022/11/20/hello-world/</id>
+    <link href="https://1jyh.github.io/2022/11/20/hello-world/"/>
+    <id>https://1jyh.github.io/2022/11/20/hello-world/</id>
     <published>2022-11-20T13:56:06.907Z</published>
     <updated>2022-11-20T13:56:06.907Z</updated>
     
